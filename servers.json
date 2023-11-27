@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Asmodeus",
+      "type": "http",
+      "address": "asmodeus.cyclic.app"
+    },
+    {
+      "name": "Asmodeus Status",
+      "type": "http",
+      "address": "stats.uptimerobot.com/ynJZzU6JZ5"
+    },
+    {
+      "name": "INVALID",
+      "type": "http",
+      "address": "stats.parv"
+    }
+]
